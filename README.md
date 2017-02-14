@@ -25,7 +25,7 @@ Remove all of the "from" and "to" blocks inside of the `showSegments` variable, 
 
 The script has the `Q` key on the keyboard configured to print a timestamp to the console. You can open Chrome's console with the `F12` key. By pressing `Q` at the time you wish to cut, you will get a timestamp in milliseconds, like those that were in the showSegments variables.
 
-** Note: Currently, if you log a timestamp to console and have the show jump to that timestamp, it seems to arrive a little after the frame that logged the timestamp. Once I get my head around the amount of time or the cause of the off timing, I'll put in a fix.**
+**Note: Currently, if you log a timestamp to console and have the show jump to that timestamp, it seems to arrive a little after the frame that logged the timestamp. Once I get my head around the amount of time or the cause of the off timing, I'll put in a fix.**
 
 ---
 
