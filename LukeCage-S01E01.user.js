@@ -4,7 +4,7 @@
 // @version      0.3
 // @description  To improve Luke Cage
 // @author       Eric Wehrly
-// @includes        https://www.netflix.com/watch/80002538?trackId=14170286*
+// @includes     https://www.netflix.com/watch/80002538?trackId=14170286*
 // @grant        none
 // @require http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
 // ==/UserScript==
